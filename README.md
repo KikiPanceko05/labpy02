@@ -17,6 +17,15 @@ else:
     NomBil = "Bilangan 3"
 
     print("Bilangan yang terbesar adalah", Bilangan1, "dengan nilai", Terbesar)
-    
-    ![1](https://user-images.githubusercontent.com/56498070/68081960-e4b9e800-fe48-11e9-8816-3aeb79b5eeba.PNG)
+  
+  
+  
+  
+  
+  
+  
+  
+![1](https://user-images.githubusercontent.com/56498070/68081960-e4b9e800-fe48-11e9-8816-3aeb79b5eeba.PNG)
+![2](https://user-images.githubusercontent.com/56498070/68081961-e5527e80-fe48-11e9-9033-5754d286f2ef.PNG)
+
     
